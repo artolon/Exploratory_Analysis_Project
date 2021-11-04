@@ -15,7 +15,9 @@ Other points to explore
 - stats 
 - 2-3 visuals
 
-==============================================Instruction from mentor============================================
+=============================Instruction from mentor=======================
+
+
 To Do :
   1. Come up with at least one hypothesis or question about your data and no more than five. Example: What is the relationship between airline stocks and covid cases?
 
