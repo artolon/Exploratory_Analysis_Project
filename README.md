@@ -5,6 +5,7 @@
 1. Three decade analysis - Sakshi
  
  -- Filter by year (2010 - 2020)
+ 
 2. Group by region to see if some regions are different from others - Sakshi
 3. How many are multiple offenses vs single? - Abbie
 4. Possibly get mean, std, and max for victim_count - Abbie
