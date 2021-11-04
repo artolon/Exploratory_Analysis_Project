@@ -15,7 +15,7 @@ Other points to explore
 - stats 
 - 2-3 visuals
 
-=============================Instruction from mentor=======================
+=============================Instructions from mentor=======================
 
 
 To Do :
