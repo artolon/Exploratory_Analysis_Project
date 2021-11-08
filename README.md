@@ -8,7 +8,18 @@
  
 2. Group by region to see if some regions are different from others - Sakshi
 3. How many are multiple offenses vs single? - Abbie
+
+![Offense-bias](https://user-images.githubusercontent.com/59490033/140683249-fe4ff4d8-9c9c-48b0-bae0-ab327a333c27.PNG)
+
+![multbar](https://user-images.githubusercontent.com/59490033/140683583-2b86dc7f-8d15-4f35-a967-32edd2701941.png)
+
 4. Possibly get mean, std, and max for victim_count - Abbie
+
+![FullBoxPlot](https://user-images.githubusercontent.com/59490033/140683335-d96212b0-994e-4d7b-96fe-b0863ad2f40b.PNG)
+
+![RegionBoxPlot](https://user-images.githubusercontent.com/59490033/140683371-0527c2b1-677f-463e-885d-49423d68e583.PNG)
+
+![treemap1](https://user-images.githubusercontent.com/59490033/140683422-47e68a1c-c478-410e-b2fb-d1911daeeda1.png)
 
 
 Other points to explore
