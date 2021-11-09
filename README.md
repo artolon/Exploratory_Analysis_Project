@@ -9,15 +9,17 @@
 2. Group by region to see if some regions are different from others - Sakshi
 3. How many are multiple offenses vs single? - Abbie
 
-![Offense-bias](https://user-images.githubusercontent.com/59490033/140683249-fe4ff4d8-9c9c-48b0-bae0-ab327a333c27.PNG)
+![OffenseBiasBar](https://user-images.githubusercontent.com/59490033/140851226-80c3c1c9-6e41-4f4e-80ce-621e1a834030.png)
 
-![multbar](https://user-images.githubusercontent.com/59490033/140683583-2b86dc7f-8d15-4f35-a967-32edd2701941.png)
+![multbar](https://user-images.githubusercontent.com/59490033/140851272-fd8aa970-748e-42dd-a75d-82c9561a8b6f.png)
 
 4. Possibly get mean, std, and max for victim_count - Abbie
 
-![FullBoxPlot](https://user-images.githubusercontent.com/59490033/140683335-d96212b0-994e-4d7b-96fe-b0863ad2f40b.PNG)
+![fullboxplot](https://user-images.githubusercontent.com/59490033/140851319-d5759034-ee92-467a-9ef0-9be30cc52fb7.png)
 
-![RegionBoxPlot](https://user-images.githubusercontent.com/59490033/140683371-0527c2b1-677f-463e-885d-49423d68e583.PNG)
+![Regionboxplot](https://user-images.githubusercontent.com/59490033/140851357-ff1f5ee9-dca9-4653-ac53-e98ede3ef351.png)
+
+![Regionboxplot20](https://user-images.githubusercontent.com/59490033/140851393-254105d0-53cb-4dd9-bc04-406279030a76.png)
 
 ![treemap1](https://user-images.githubusercontent.com/59490033/140683422-47e68a1c-c478-410e-b2fb-d1911daeeda1.png)
 
