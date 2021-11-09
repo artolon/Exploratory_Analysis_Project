@@ -55,3 +55,6 @@ Guidelines for your notebook:
   - All graphs should have Titles, labels and matching color schemes where applicable.
   - Code should be neat and well documented.
   - Use different types of graphs
+
+## PowerPoint Draft
+https://docs.google.com/presentation/d/1TQvObSYUEZXKDcNUiZrKn2CvGOlSftM169svD7m0YdU/edit#slide=id.p 
