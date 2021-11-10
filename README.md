@@ -3,10 +3,21 @@
 
 
 1. Three decade analysis - Sakshi
- 
- -- Filter by year (2010 - 2020)
+
+Hate Crime incidents per year (1991-2020)
+![](incidents_report_30_years.png)
+
+Hate Crimes by Region of the U.S.(2011-2020)
+![](incidents_region_area_10_years.png)
  
 2. Group by region to see if some regions are different from others - Sakshi
+
+Hate Crimes by Region over 3 decades
+![](incident_report_decade.png)
+
+Hate Crimes by Region over 3 decades
+![](crime_rate_per_decade.png)
+
 3. How many are multiple offenses vs single? - Abbie
 
 ![OffenseBiasBar](https://user-images.githubusercontent.com/59490033/140851226-80c3c1c9-6e41-4f4e-80ce-621e1a834030.png)
