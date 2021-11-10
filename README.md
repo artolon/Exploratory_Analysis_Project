@@ -5,7 +5,7 @@
 1. Three decade analysis - Sakshi
 
 Hate Crime incidents per year (1991-2020)
-![](incidents_report_30_years.png)
+![](Visulas/incidents_report_30_years.png)
 
 Hate Crimes by Region of the U.S.(2011-2020)
 ![](incidents_region_area_10_years.png)
