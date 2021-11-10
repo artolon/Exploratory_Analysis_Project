@@ -8,15 +8,15 @@ Hate Crime incidents per year (1991-2020)
 ![](Visuals/incidents_report_30_years.png)
 
 Hate Crimes by Region of the U.S.(2011-2020)
-![](incidents_region_area_10_years.png)
+![](Visuals/incidents_region_area_10_years.png)
  
 2. Group by region to see if some regions are different from others - Sakshi
 
 Hate Crimes by Region over 3 decades
-![](incident_report_decade.png)
+![](Visuals/incident_report_decade.png)
 
 Hate Crimes by Region over 3 decades
-![](crime_rate_per_decade.png)
+![](Visuals/crime_rate_per_decade.png)
 
 3. How many are multiple offenses vs single? - Abbie
 
